@@ -8,7 +8,7 @@ public class AddSubMulDivRemainder extends AddSubMulDiv {
 	// Date : 2023.12.07(ver1.0)
 	//      : 2023.12.08(ver2.0)
 	// Author : Daegeun Lee
-	// History : Field에 rem = 0으로 초기화 시켜주고 Method에 계산식을 넣어준다
+	// History : Field에 rem = 0으로 초기화 시켜주고 Method에 계산식을 넣어준다.
 	// --------------------------------------------------------------//
 	
 	// Field
